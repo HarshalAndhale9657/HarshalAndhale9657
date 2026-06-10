@@ -20,12 +20,13 @@
     <img src="https://img.shields.io/badge/Repos-40+-6C63FF?style=flat&logo=github" alt="Repos"/>
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=HarshalAndhale9657&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
-  &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/harshal-andhale/">
     <img src="https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
+
+<br/>
 
 <br/>
 
