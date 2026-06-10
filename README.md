@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshal%20Andhale&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineering%20AI%20Systems%20%7C%20LLMs%20%7C%20Full-Stack&descSize=16&descAlignY=52" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harshal%20Andhale&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Engineering%20AI%20Systems%20%7C%20LLMs%20%7C%20Full-Stack&descSize=18&descAlignY=52" width="100%"/>
 </p>
 
 <!-- Animated Typing -->
@@ -10,8 +10,24 @@
   </a>
 </p>
 
+<!-- Profile Badges -->
+<p align="center">
+  <a href="https://github.com/HarshalAndhale9657?tab=followers">
+    <img src="https://img.shields.io/github/followers/HarshalAndhale9657?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/HarshalAndhale9657?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-40+-6C63FF?style=flat&logo=github" alt="Repos"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=HarshalAndhale9657&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harshal-andhale/">
+    <img src="https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
----
+<br/>
 
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
@@ -19,9 +35,14 @@
   <img src="https://github-trophies.vercel.app/?username=HarshalAndhale9657&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 </p>
 
----
+<br/>
 
-## 🧠 About Me
+<!-- About Me -->
+<h2 align="center">🧠 About Me</h2>
+
+<br/>
+
+<div align="center">
 
 ```yaml
 Name: Harshal Andhale
@@ -42,6 +63,8 @@ Domains:
   - Post Training, Fine Tuning LLM's
 ```
 
+</div>
+
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🔭 Building production-grade AI systems end-to-end — from LLM fine-tuning and RLHF pipelines to real-time inference and deployment
@@ -53,9 +76,10 @@ Domains:
 
 <br clear="both"/>
 
----
+<br/>
 
-## 💼 Tech Stack
+<!-- Tech Stack -->
+<h2 align="center">💼 Tech Stack</h2>
 
 <h3 align="center">🤖 AI / ML / Deep Learning / NLP / LLM</h3>
 <p align="center">
@@ -101,11 +125,12 @@ Domains:
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
----
+<br/>
 
-## 🔥 Featured Projects
+<!-- Featured Projects -->
+<h2 align="center">🔥 Featured Projects</h2>
 
-
+<br/>
 
 <table>
 <tr>
@@ -152,20 +177,29 @@ High-throughput financial reconciliation engine designed for automated transacti
   </a>
 </p>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+<!-- GitHub Analytics -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshalAndhale9657&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&hide=issues,contribs" width="48%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=HarshalAndhale9657&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="50%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshalAndhale9657&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&hide=issues,contribs" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=HarshalAndhale9657&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="50%" alt="GitHub Streak"/>
 </p>
 
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshalAndhale9657&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Activity Graph"/>
+</p>
 
+<br/>
 
----
+<!-- Domains of Expertise -->
+<h2 align="center">🧪 Domains of Expertise</h2>
 
-## 🧪 Domains of Expertise
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Large_Language_Models-FF6B6B?style=for-the-badge&logoColor=white" alt="LLMs"/>
@@ -177,9 +211,12 @@ High-throughput financial reconciliation engine designed for automated transacti
   <img src="https://img.shields.io/badge/Machine_Learning-FFE66D?style=for-the-badge&logoColor=black" alt="ML"/>
 </p>
 
----
+<br/>
 
-## 💬 Let's Connect & Collaborate
+<!-- Connect & Collaborate -->
+<h2 align="center">💬 Let's Connect & Collaborate</h2>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshal-andhale/">
@@ -199,7 +236,7 @@ High-throughput financial reconciliation engine designed for automated transacti
   <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
 </p>
 
----
+<br/>
 
 <!-- Snake Animation -->
 <p align="center">
