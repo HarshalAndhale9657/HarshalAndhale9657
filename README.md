@@ -13,7 +13,7 @@
 <!-- Profile Badges -->
 <p align="center">
   <a href="https://github.com/HarshalAndhale9657?tab=followers">
-    <img src="https://img.shields.io/github/followers/HarshalAndhale9657?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/badge/Followers-9-6C63FF?style=flat&logo=github" alt="GitHub Followers"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/HarshalAndhale9657?tab=repositories">
