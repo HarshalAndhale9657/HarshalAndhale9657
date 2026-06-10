@@ -10,6 +10,22 @@
   </a>
 </p>
 
+<!-- Profile Badges -->
+<p align="center">
+  <a href="https://github.com/HarshalAndhale9657?tab=followers">
+    <img src="https://img.shields.io/github/followers/HarshalAndhale9657?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/HarshalAndhale9657?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-40+-6C63FF?style=flat&logo=github" alt="Repos"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harshal-andhale/">
+    <img src="https://img.shields.io/badge/-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+<br/>
 
 ---
 
@@ -154,14 +170,22 @@ High-throughput financial reconciliation engine designed for automated transacti
 
 ---
 
-## 📊 GitHub Analytics
+<!-- GitHub Analytics -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshalAndhale9657&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&hide=issues,contribs" width="48%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=HarshalAndhale9657&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="50%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshalAndhale9657&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF&hide=issues,contribs" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=HarshalAndhale9657&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="50%" alt="GitHub Streak"/>
 </p>
 
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshalAndhale9657&bg_color=0d1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Activity Graph"/>
+</p>
 
+<br/>
 
 ---
 
