@@ -39,7 +39,7 @@ Domains:
   - Large Language Models & Generative AI
   - Retrieval-Augmented Generation at Scale
   - Reinforcement Learning & Agentic Architectures
-  - Computer Vision & DeepFake Detection
+  - Post Training, Fine Tuning LLM's
 ```
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
