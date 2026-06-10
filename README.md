@@ -44,12 +44,12 @@ Domains:
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🔭 Building **production AI systems — from LLM fine-tuning to real-time inference**
-- 🏗️ Experienced in **end-to-end ML pipelines, RAG architectures & model deployment**
-- 🧠 Deep expertise in **PyTorch, LangChain, LangGraph & HuggingFace ecosystem**
+- 🔭 Building production-grade AI systems end-to-end — from LLM fine-tuning and RLHF pipelines to real-time inference and deployment
+- 🏗️ Hands-on experience with RAG architectures, multi-agent systems, and scalable ML infrastructure
+- 🧠 Deep expertise across PyTorch, deep learning, NLP, LangChain, LangGraph, and the HuggingFace ecosystem
 
-- 🤝 Open to **high-impact collaborations & open-source contributions**
-- 🏆 Hackathon builder — **Meta × PyTorch Hackathon participant**
+- 🤝 Open to high-impact research collaborations and open-source contributions at the intersection of AI systems and applied ML
+- 🏆 National hackathon winner — 1st Runner-Up at DEVCLASH, Pune's largest inter-collegiate tech hackathon (50+ colleges); Meta × PyTorch Hackathon participant
 
 <br clear="both"/>
 
@@ -57,7 +57,7 @@ Domains:
 
 ## 💼 Tech Stack
 
-<h3 align="center">🤖 AI / ML / Deep Learning</h3>
+<h3 align="center">🤖 AI / ML / Deep Learning / NLP / LLM</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -67,6 +67,7 @@ Domains:
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
 </p>
 
 <h3 align="center">🌐 Full-Stack Development</h3>
@@ -110,10 +111,28 @@ Domains:
 <tr>
 <td width="50%">
 
+### 🔬 [P.R.I.S.M.](https://github.com/HarshalAndhale9657/P.R.I.S.M)
+`Python` `NLP` `Stylometry` `DBSCAN` `LLM`
+
+Forensic document analysis engine that detects stitched plagiarism through mathematical stylometry, density-based clustering (DBSCAN), and LLM-powered reasoning. Identifies multi-author segments in academic papers that traditional plagiarism checkers miss entirely.
+
+</td>
+<td width="50%">
+
+### 🛡️ [A.E.G.I.S. (ANVIL)](https://github.com/HarshalAndhale9657/ANVIL)
+`Python` `FastAPI` `GPT-4o` `Petri Nets` `OpenTelemetry`
+
+Autonomous red-team engine with a Colored Petri Net orchestration backbone — discovers, exploits, verifies, and patches security vulnerabilities end-to-end with zero human intervention. Features deterministic anti-hallucination verification gates and full W3C distributed tracing.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🧠 [IncidentForge (OpenEnv)](https://github.com/HarshalAndhale9657/OpenEnv)
 `Python` `PyTorch` `RL` `Agentic AI`
 
-SRE incident simulation environment built for the **Meta × PyTorch Hackathon**. Features autonomous agent-driven incident response, reinforcement learning reward engine, and production-grade evaluation pipeline.
+SRE incident simulation environment built for the **Meta × PyTorch Hackathon**. Implements autonomous agent-driven incident response with a reinforcement learning reward engine and production-grade evaluation pipeline for benchmarking agent reliability under real-world failure scenarios.
 
 </td>
 <td width="50%">
@@ -121,35 +140,7 @@ SRE incident simulation environment built for the **Meta × PyTorch Hackathon**.
 ### 💰 [Reconciliation Engine](https://github.com/HarshalAndhale9657/Reconcillation-Engine)
 `TypeScript` `Node.js` `System Design`
 
-⭐ High-throughput financial reconciliation engine for automated transaction matching across multiple data sources. Built for real-world fintech use cases with scalable architecture.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📸 [Campus-Lens](https://github.com/HarshalAndhale9657/Campus-Lens)
-`JavaScript` `Node.js` `AI` `Full-Stack`
-
-Intelligent campus management platform with AI-powered analytics, real-time monitoring, and data-driven insights for institutional decision-making.
-
-</td>
-<td width="50%">
-
-### 🛡️ [Insurance Agent](https://github.com/HarshalAndhale9657/Insurance-Agent)
-`JavaScript` `LLMs` `Agentic AI`
-
-Autonomous AI insurance advisory agent leveraging LLM-based reasoning, multi-step decision-making, and domain-specific knowledge retrieval.
-
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2" align="center">
-
-### 🎭 [DeepFake Detection](https://github.com/HarshalAndhale9657/KPR-Deep-Fake-detection)
-`Python` `Deep Learning` `Computer Vision` `CNN`
-
-Deep learning pipeline for detecting manipulated media content using convolutional neural networks. Trained on large-scale face forensics datasets with robust evaluation metrics.
+High-throughput financial reconciliation engine designed for automated transaction matching across heterogeneous data sources. Built for real-world fintech operations with deterministic matching algorithms, configurable tolerance thresholds, and scalable architecture for processing large-volume ledger data.
 
 </td>
 </tr>
@@ -170,10 +161,6 @@ Deep learning pipeline for detecting manipulated media content using convolution
   <img src="https://streak-stats.demolab.com?user=HarshalAndhale9657&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="50%" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalAndhale9657&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&text_color=c9d1d9&langs_count=8" width="32%" alt="Top Languages"/>
-</p>
-
 
 
 ---
@@ -186,11 +173,8 @@ Deep learning pipeline for detecting manipulated media content using convolution
   <img src="https://img.shields.io/badge/Fine_Tuning_(SFT/DPO)-4ECDC4?style=for-the-badge" alt="Fine-Tuning"/>
   <img src="https://img.shields.io/badge/NLP_&_Text_Analysis-FFE66D?style=for-the-badge&logoColor=black" alt="NLP"/>
   <img src="https://img.shields.io/badge/Computer_Vision-FF6B6B?style=for-the-badge" alt="CV"/>
-  <img src="https://img.shields.io/badge/Agentic_AI_Systems-6C63FF?style=for-the-badge" alt="Agents"/>
   <img src="https://img.shields.io/badge/Deep_Learning-4ECDC4?style=for-the-badge" alt="DL"/>
   <img src="https://img.shields.io/badge/Machine_Learning-FFE66D?style=for-the-badge&logoColor=black" alt="ML"/>
-  <img src="https://img.shields.io/badge/MERN_Stack-FF6B6B?style=for-the-badge" alt="MERN"/>
-  <img src="https://img.shields.io/badge/System_Design-6C63FF?style=for-the-badge" alt="System Design"/>
 </p>
 
 ---
@@ -202,13 +186,13 @@ Deep learning pipeline for detecting manipulated media content using convolution
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
   </a>
   &nbsp;
-  <a href="https://github.com/HarshalAndhale9657">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
-  </a>
-  &nbsp;
   <a href="mailto:harshalandhale9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
   </a>
+</p>
+
+<p align="center">
+  📧 <b>harshalandhale9@gmail.com</b>
 </p>
 
 <p align="center">
@@ -219,7 +203,7 @@ Deep learning pipeline for detecting manipulated media content using convolution
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/HarshalAndhale9657/HarshalAndhale9657/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </p>
 
 <!-- Footer -->
