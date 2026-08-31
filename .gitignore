@@ -1,0 +1,7 @@
+# Personal documents — never publish (this repo is public)
+HarshalAndhale-Resume.pdf
+*.pdf
+
+# Old README drafts
+currentprofilegh.md
+readme2.md
