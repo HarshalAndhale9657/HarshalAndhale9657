@@ -150,15 +150,9 @@ Kafka streaming, isolated ingestion and reconciliation services, deterministic m
 
 <h3><code>harshal@github:~$ ./metrics --render</code></h3>
 
-<div align="center">
+<img src="assets/stats.svg" alt="GitHub stats: 460 commits, 34 stars earned, 52 repositories, 114 active days, contribution graph and language breakdown" width="100%"/>
 
-<img src="assets/metrics-overview.svg" width="49%" alt="GitHub overview and commit calendar"/> <img src="assets/metrics-languages.svg" width="49%" alt="Language breakdown"/>
-
-<img src="assets/metrics-habits.svg" width="49%" alt="Coding habits"/>
-
-<sub>Rendered nightly by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> and committed into this repo — no third-party rate limits, no broken images.</sub>
-
-</div>
+<sub>Generated nightly from the GitHub GraphQL API by <a href="assets/_stats_generator.py"><code>_stats_generator.py</code></a> and committed here &mdash; no third-party service, so no rate limits and no broken images.</sub>
 
 <br/>
 
