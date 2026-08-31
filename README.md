@@ -170,28 +170,28 @@ Kafka streaming, isolated ingestion and reconciliation services, deterministic m
 <img src="https://img.shields.io/badge/Transformers-0B0E14?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Transformers"/>
 <img src="https://img.shields.io/badge/PEFT_·_SFT_·_DPO-0B0E14?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="PEFT SFT DPO"/>
 <img src="https://img.shields.io/badge/scikit--learn-0B0E14?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/LightGBM-0B0E14?style=flat-square&logo=leaflet&logoColor=00E58A" alt="LightGBM"/>
-<img src="https://img.shields.io/badge/SHAP-0B0E14?style=flat-square&logo=python&logoColor=C792EA" alt="SHAP"/>
+<img src="https://img.shields.io/badge/LightGBM-0B0E14?style=flat-square" alt="LightGBM"/>
+<img src="https://img.shields.io/badge/SHAP-0B0E14?style=flat-square" alt="SHAP"/>
 <img src="https://img.shields.io/badge/MLflow-0B0E14?style=flat-square&logo=mlflow&logoColor=0194E2" alt="MLflow"/>
 </td></tr>
 
 <tr><td><b>LLM / Agents</b></td><td>
 <img src="https://img.shields.io/badge/LangChain-0B0E14?style=flat-square&logo=langchain&logoColor=1C3C3C" alt="LangChain"/>
 <img src="https://img.shields.io/badge/LangGraph-0B0E14?style=flat-square&logo=langgraph&logoColor=56D4FF" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/OpenAI-0B0E14?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/OpenAI-0B0E14?style=flat-square" alt="OpenAI"/>
 <img src="https://img.shields.io/badge/Claude-0B0E14?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude"/>
 <img src="https://img.shields.io/badge/Gemini-0B0E14?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
 <img src="https://img.shields.io/badge/Ollama-0B0E14?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama"/>
-<img src="https://img.shields.io/badge/RAG-0B0E14?style=flat-square&logo=databricks&logoColor=00E58A" alt="RAG"/>
+<img src="https://img.shields.io/badge/RAG-0B0E14?style=flat-square" alt="RAG"/>
 </td></tr>
 
 <tr><td><b>Data / Vector</b></td><td>
 <img src="https://img.shields.io/badge/PostgreSQL-0B0E14?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MongoDB-0B0E14?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/pgvector-0B0E14?style=flat-square&logo=postgresql&logoColor=4169E1" alt="pgvector"/>
-<img src="https://img.shields.io/badge/Pinecone-0B0E14?style=flat-square&logo=pinboard&logoColor=00E58A" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/Pinecone-0B0E14?style=flat-square" alt="Pinecone"/>
 <img src="https://img.shields.io/badge/FAISS-0B0E14?style=flat-square&logo=meta&logoColor=0467DF" alt="FAISS"/>
-<img src="https://img.shields.io/badge/ChromaDB-0B0E14?style=flat-square&logo=chromatic&logoColor=FF6F61" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/ChromaDB-0B0E14?style=flat-square" alt="ChromaDB"/>
 <img src="https://img.shields.io/badge/Neo4j-0B0E14?style=flat-square&logo=neo4j&logoColor=4581C3" alt="Neo4j"/>
 <img src="https://img.shields.io/badge/Kafka-0B0E14?style=flat-square&logo=apachekafka&logoColor=FFFFFF" alt="Kafka"/>
 </td></tr>
