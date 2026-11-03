@@ -1,11 +1,12 @@
 name: Profile Stats
 
-# Regenerates assets/stats.svg from the GraphQL API and commits it.
+# Regenerates assets/{dark,light}/stats.svg from the GraphQL API and commits them.
 #
 # Self-hosted on purpose: the popular stats services rate-limit (so cards
 # intermittently render as broken images), theme light, and publish every
 # zero-valued field they know about. assets/_stats_generator.py draws only
-# real, non-zero numbers in the same terminal style as the header.
+# real, non-zero numbers in the same design system as the rest of the profile
+# (assets/_design.py + fonts/glyphs.json; stdlib only, no pip installs).
 #
 # Requires repo secret METRICS_TOKEN — a classic PAT with `read:user` + `repo`.
 
@@ -18,6 +19,8 @@ on:
     paths:
       - ".github/workflows/metrics.yml"
       - "assets/_stats_generator.py"
+      - "assets/_design.py"
+      - "assets/fonts/glyphs.json"
 
 permissions:
   contents: write
@@ -36,7 +39,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate stats.svg
+      - name: Generate stats panels
         env:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
         run: python assets/_stats_generator.py
@@ -45,10 +48,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- assets/stats.svg; then
-            echo "stats.svg unchanged — nothing to commit"
+          if git diff --quiet -- assets/dark/stats.svg assets/light/stats.svg; then
+            echo "stats unchanged — nothing to commit"
           else
-            git add assets/stats.svg
+            git add assets/dark/stats.svg assets/light/stats.svg
             git commit -m "chore: refresh profile stats [skip ci]"
             git push
           fi
